@@ -1,0 +1,22 @@
+{
+  "name": "is-ncx",
+  "version": "1.0.0",
+  "description": "Is the string NCX?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pprevankar/sdk.git"
+  },
+  "keywords": [
+    "NCX"
+  ],
+  "author": "nice-cxone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pprevankar/sdk/issues"
+  },
+  "homepage": "https://github.com/pprevankar/sdk#readme"
+}
